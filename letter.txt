@@ -3,5 +3,6 @@
 <body>
 <h1>Esta es la pagina de recaudación de dolares</h1>
 <b>Esperamos su generosa contribucion que no baje de 35k dolares</b>
+<h1>En el club solo se acepta personal con ingresos superiores a 50k dolares mensuales.</h6>
 </body>
 </html>
