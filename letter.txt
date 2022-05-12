@@ -3,5 +3,6 @@
 <body>
 <h1>Esta es la pagina de recaudación de dolares</h1>
 <b>Esperamos su generosa contribucion que no baje de 35k dolares</b>
+<h1>plata es plata</>
 </body>
 </html>
